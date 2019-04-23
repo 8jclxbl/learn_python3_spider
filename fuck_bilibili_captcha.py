@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 import re
 from io import BytesIO
 
-driver = webdriver.Chrome('/usr/lib/chromium-browser/chromedriver')
+driver = webdriver.Firefox()
 WAIT = WebDriverWait(driver, 10)
 url = 'https://passport.bilibili.com/login'
 

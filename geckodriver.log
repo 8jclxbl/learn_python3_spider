@@ -1,0 +1,403 @@
+1554870730758	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QBLhEg1u8k9t"
+1554870730994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1554870730994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1554870730994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1554870732070	Marionette	INFO	Listening on port 43589
+1554870732164	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+1554870740043	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+1554870740314	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870740322	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870740598	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870740876	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870741155	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+1554870741448	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870741724	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870741997	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870742273	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870742558	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870742835	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870743109	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870743385	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870743659	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870743936	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870744220	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870744512	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870744800	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870745083	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870745360	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870745648	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870745934	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870746194	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870746474	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870746753	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870747041	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870747330	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870747605	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870747884	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870748165	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870748437	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870748717	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870748989	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870749252	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870749517	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870749792	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870750071	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1554870750866	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+1554870751202	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.geetest.com/static/js/geetest.6.0.9.js, line 1: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 15144, Gecko_IOThread] WARNING: pipe error (93): 连接被对方重设: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 15144, Gecko_IOThread] WARNING: pipe error (79): 连接被对方重设: file /build/firefox-QFhmDU/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1554870757154	Marionette	INFO	Stopped listening on port 43589
